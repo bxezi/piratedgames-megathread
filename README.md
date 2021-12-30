@@ -1,19 +1,19 @@
 <!-- markdownlint-disable MD041 -->
-**Here's the /r/PiratedGames Mega Thread!** - [translations](translations/) / [License](LICENSE)
+**这是 /r/PiratedGames 大帖子！** - [翻译](translations/) / [协议](LICENSE)
 
 ---
 
-### Required Components
+### 所需组件
 
-You will need to install all of these before downloading any games (legitimate or pirated!) to stop games crashing due to missing software on your computer:
+在下载任何游戏（合法的或盗版的）之前，为了阻止游戏由于电脑缺少软件而崩溃，你将需要安装所有的这些：
 
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 
-### Torrent Sites
+### Torrent 网站
 
-You will likely need a VPN to download torrents to avoid receiving Copyright notices from your ISP - unless, your country does not care about piracy. Read more in the VPN section further in this thread. Torrents are P2P downloads - you download from other people who have downloaded the file. No servers are involved.
+你可能需要 VPN 来下载 torrent 以避免收到来自 ISP 的版权通知 - 除非你的国家不关心盗版问题。请在本帖下方的 VPN 部分阅读更多内容。Torrent 是 P2P 下载 - 你从其他已下载该文件的人那里下载文件。不涉及服务器。
 
 - [1337X](https://1337x.to/)
 - [Mac Torrents](https://mac-torrents.io/mac-games/)
@@ -25,46 +25,46 @@ You will likely need a VPN to download torrents to avoid receiving Copyright not
 - [Tapochek](https://tapochek.net/index.php)
 - [Torrents.csv](https://torrents-csv.ml/)
 
-### Direct Download Sites
+### 直接下载网站
 
-Direct Downloads are any normal download. You download the file from a server through a web browser. It is significantly safer to download this way and you will not need a VPN. In some cases, you will need a VPN to access blocked filehost sites (e.g. ZippyShare is blocked in some EU countries). It is recommended to use a Download Manager mentioned further down the Mega Thread to help manage your downloads.
+直接下载是任何通常的下载。你通过网络浏览器从一个服务器下载文件。这种下载方式明显更安全，并且你不需要 VPN。在某些情况下，你将需要 VPN 来访问被封锁的文件托管网站（如 ZippyShare 在一些欧盟国家被封锁）。建议使用本贴下面提到的下载管理器来帮助管理你的下载。
 
 - [Archive.org - ClassicPCGames](https://archive.org/details/classicpcgames)
-- [CrackHub](https://crackhub.site) - for scene games and FitGirl repacks.
-- [CrackHub [Scene Games]](https://scene.crackhub.site) - takes you directly to CrackHub213's scene uploads.
+- [CrackHub](https://crackhub.site) - 用于业界游戏与 FitGirl repack。
+- [CrackHub [Scene Games]](https://scene.crackhub.site) - 带你直接进入 CrackHub213 的业界上传。
 - [CS.RIN.RU - Steam Underground Community](https://cs.rin.ru/forum/)
 - [DOSGamesArchive](https://www.dosgamesarchive.com/)
-- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - use Google Translate.
+- [DownloadHa](https://www.downloadha.com/category/%d8%a8%d8%a7%d8%b2%db%8c-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1-pc-computer-game/) - 使用谷歌翻译。
 - [G4U](https://g4u.to/)
-- [Game-2U](https://game-2u.com) - For PS4 games (use [FastForward extension](https://fastforward.team/install) to bypass ad shortlinks)
+- [Game-2U](https://game-2u.com) - 用于 PS4 游戏（使用 [FastForward 扩展](https://fastforward.team/install) 绕过广告短链接）
 - [GLOAD](https://gload.cc/)
 - [Gamesdrive](https://gamesdrive.net)
 - [GOG Games](https://gog-games.com/)
-- [iPhone Cake](https://www.iphonecake.com/) - For cracked iOS apps and games.
+- [iPhone Cake](https://www.iphonecake.com/) - 用于 iOS 破解程序和游戏。
 - [Macbed](https://www.macbed.com/)
-- [Mobilisim](https://forum.mobilism.org/index.php) - Android apps and games.
-- [MyAbandonware](https://www.myabandonware.com/) - Old/retro games.
-- [OldGamesDownload](https://oldgamesdownload.com/) - Old games.
-- [Online-Fix](https://online-fix.me) - Online multiplayer games.
+- [Mobilisim](https://forum.mobilism.org/index.php) - 安卓应用和游戏。
+- [MyAbandonware](https://www.myabandonware.com/) - 老游戏、复古游戏。
+- [OldGamesDownload](https://oldgamesdownload.com/) - 老游戏。
+- [Online-Fix](https://online-fix.me) - 多人在线游戏。
 - [Ovagames](http://www.ovagames.com/)
 - [RLSBB](https://rlsbb.ru)
 - [SCNLOG.ME](https://scnlog.me/)
-- [SKlauncher](https://skmedix.pl/sklauncher) - for Minecraft.
+- [SKlauncher](https://skmedix.pl/sklauncher) - 用于我的世界。
 - [Torrminatorr Forum](https://forum.torrminatorr.com/)
 
-### Trainers (Cheats)
+### 修改器（作弊）
 
-Note: these are not for online games. Do not use cheats in online games!
+注意：这不是用于在线游戏。不要在在线游戏中作弊！
 
-- [Fearless Revolution](https://fearlessrevolution.com/) - has Cheat Engine tables.
+- [Fearless Revolution](https://fearlessrevolution.com/) - 有 Cheat Engine 表。
 - [FLiNG Trainers](https://flingtrainer.com/)
 - [WeMod](https://www.wemod.com/)
 - [MrAntiFun](https://mrantifun.net/)
-- [GameCopyWorld](https://gamecopyworld.com/games/index.php) - also has crack only / NoCD fixes.
+- [GameCopyWorld](https://gamecopyworld.com/games/index.php) - 也有仅破解、无CD修复。
 
-### Repacks
+### Repack
 
-Repacks are highly compressed games, designed for people with slow/limited internet bandwidth. Once you download them, you must install them on your computer which can take a long time due to file decompression.
+Repack 是为低带宽与带宽有限的人设计的高度压缩的游戏。下载了它们后，你必须将它们安装到电脑，由于文件解压，这会需要很长时间。
 
 - [Chovka](https://repack.info/)
 - [CPG Repacks](https://cpgrepacks.site)
@@ -77,36 +77,36 @@ Repacks are highly compressed games, designed for people with slow/limited inter
 - [Kapital Sin](https://www.kapitalsin.com/forum/)
 - [M4ckD0ge Repacks](https://m4ckd0ge-repacks.me)
 - [Masquerade Repacks](https://masquerade.site)
-- Mr DJ (Does not have any official site.)
-- R.G. Catalyst (Does not have any official site.)
-- R.G. Mechanics (Does not have any official site.)
-- R.G. Revenants (Does not have any official site.)
+- Mr DJ （没有任何官方网站。）
+- R.G. Catalyst （没有任何官方网站）
+- R.G. Mechanics （没有任何官方网站。）
+- R.G. Revenants （没有任何官方网站。）
 - [Scooter Repacks](https://scooter-repacks.site)
 - [Xatab](https://xatab-repack.com/)
 - ZAZIX
 
-### Release Networks
+### 发布网络
 
-Please note, none of these sites provide downloads, only information on Scene/P2P releases. Looking to see if a game is cracked? Check here!
+请注意，这些网站都不提供下载，只提供关于业界、P2P 发布的信息。想看看一款游戏是否被破解？看这！
 
 - [CrackWatch](https://reddit.com/r/CrackWatch)
-- [CrackForecast](https://reddit.com/r/CrackForecast) - joke subreddit to answer "When will X game be cracked?" question.
+- [CrackForecast](https://reddit.com/r/CrackForecast) - 回答“什么时候破解X游戏？”问题的恶作剧 subreddit。
 - [m2v.ru](http://m2v.ru/)
 - [predb.de](https://predb.de/)
 - [predb.me](https://predb.me/?cats=games-pc)
 - [predb.org](https://predb.org)
 - [predb.ovh](https://predb.ovh/)
 - [predb.pw](https://predb.pw/)
-- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - For repacks only.
-- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - For repacks only. Sister subreddit of [r/PiratedGames](https://www.reddit.com/r/PiratedGames)
+- [r/RepackWatchers](https://www.reddit.com/r/RepackWatchers) - 仅用于 repack。
+- [r/RepackWorld](https://www.reddit.com/r/RepackWorld) - 仅用于 repack。[r/PiratedGames](https://www.reddit.com/r/PiratedGames) 的姐妹 subreddit
 - [srrDB](https://www.srrdb.com/)
 - [xREL](https://xrel.to)
 
-### ROM Sites
+### ROM 网站
 
 - [CDRomance](https://cdromance.com/)
 - [Edge Emulation](https://edgeemu.net)
-- [Emu Paradise](https://www.emuparadise.me/) - [Use this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to download.
+- [Emu Paradise](https://www.emuparadise.me/) - [使用该脚本](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/)下载。
 - [The Eye](http://the-eye.eu/public/rom/)
 - [TheRomDepot](https://theromdepot.com)
 - [Romulation](https://www.romulation.net/)
@@ -116,44 +116,44 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [Vimm's Lair](https://vimm.net/?p=vault)
 - [Ziperto](https://www.ziperto.com/)
 
-### Emulators
+### 仿真器
 
-- [Bsnes](https://bsnes.dev/) - for SNES games.
-- [Cemu](http://cemu.info/) - for Wii U games.
-- [Citra](https://citra-emu.org/) - for 3DS games.
-- [DeSmuME](https://desmume.org/) - for DS games.
-- [Dolphin Emulator](https://dolphin-emu.org/) - for GameCube / Wii games.
-- [DuckStation](https://www.duckstation.org/) - for PlayStation 1 games.
-- [ePSXe](https://www.epsxe.com/) - for PlayStation 1 games.
-- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) - for SEGA Genesis / Mega Drive games.
-- [MAME](https://www.mamedev.org/index.php) - for Arcade games.
-- [MelonDS](http://melonds.kuribo64.net/) - for DS games.
-- [mGBA](https://mgba.io/) - for GBAgames.
-- [No$GBA](https://www.nogba.com/) - for GBA and DS games.
-- [Project64](https://www.pj64-emu.com/) - for Nintendo 64 games.
-- [PCSX2](https://pcsx2.net/) - for PS2 games.
-- [PPSSPP](https://www.ppsspp.org/index.html) - for PSP games.
-- [RCPS3](https://rpcs3.net/) - for PS3 games.
+- [Bsnes](https://bsnes.dev/) - 用于 SNES 游戏。
+- [Cemu](http://cemu.info/) - 用于 Wii U 游戏。
+- [Citra](https://citra-emu.org/) - 用于 3DS 游戏。
+- [DeSmuME](https://desmume.org/) - 用于 DS 游戏。
+- [Dolphin Emulator](https://dolphin-emu.org/) - 用于 GameCube 、 Wii 游戏。
+- [DuckStation](https://www.duckstation.org/) - 用于 PlayStation 1 游戏。
+- [ePSXe](https://www.epsxe.com/) - 用于 PlayStation 1 游戏。
+- [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) - 用于 SEGA Genesis 用于 Mega Drive 游戏。
+- [MAME](https://www.mamedev.org/index.php) - 用于 Arcade 游戏。
+- [MelonDS](http://melonds.kuribo64.net/) - 用于 DS 游戏。
+- [mGBA](https://mgba.io/) - 用于 GBAgames。
+- [No$GBA](https://www.nogba.com/) - 用于 GBA 与 DS 游戏。
+- [Project64](https://www.pj64-emu.com/) - 用于 Nintendo 64 游戏。
+- [PCSX2](https://pcsx2.net/) - 用于 PS2 游戏。
+- [PPSSPP](https://www.ppsspp.org/index.html) - 用于 PSP 游戏。.
+- [RCPS3](https://rpcs3.net/) - 用于 PS3 游戏。
 - [RetroArch](https://www.retroarch.com/)
-- [Ryujinx](https://ryujinx.org/) - for Nintendo Switch games.
-- [Snes9x](https://www.snes9x.com/) - for SNES games.
-- [Yuzu](https://yuzu-emu.org/) - for Nintendo Switch games.
-- [Xemu](https://xemu.app/) - for original XBOX games.
-- [Xenia](https://xenia.jp/) - for XBOX 360 games.
-- [ZSNES](https://www.zsnes.com/) - for SNES games.
+- [Ryujinx](https://ryujinx.org/) - 用于 Nintendo Switch 游戏。
+- [Snes9x](https://www.snes9x.com/) - 用于 SNES 游戏。
+- [Yuzu](https://yuzu-emu.org/) - 用于 Nintendo Switch 游戏。
+- [Xemu](https://xemu.app/) - 用于原始的 XBOX 游戏。
+- [Xenia](https://xenia.jp/) - 用于 XBOX 360 游戏。
+- [ZSNES](https://www.zsnes.com/) - 用于 SNES 游戏。
 
-### Torrent Software
+### Torrent 软件
 
 - [BiglyBT](https://www.biglybt.com/download/)
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download)
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - for Android devices.
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - 用于安卓设备。
 - [PicoTorrent](https://picotorrent.org/download/)
 - [Qbittorrent](https://www.qbittorrent.org/download.php)
 - [Transmission](https://transmissionbt.com/download/)
 - [Vuze](http://www.vuze.com/)
 - [Tixati](https://tixati.com/)
 
-### Direct Downloading Software
+### 直接下载软件
 
 - [FreeDownloadManager](https://www.freedownloadmanager.org/)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html).
@@ -162,34 +162,34 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - [pyLoad](https://pyload.net/)
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/)
 
-### Tools
+### 工具
 
-- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - Automatically set your game up for CreamAPI.
-- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - Automatically create Steamworks Fixes.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - Unlock pirated DLCs on legitimate Steam Games.
+- [Auto CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521#p2013521) - 自动为 CreamAPI 设置你的游戏。
+- [Auto Steamworks Fix Tool](https://cs.rin.ru/forum/viewtopic.php?f=29&t=97112) - 自动创建 Steamworks 修复。
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) - 在合法的 Steam 游戏上解锁盗版 DLC
 - [Goldberg Steam Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91627)
-- [Lucky Patcher](https://www.luckypatchers.com/) - Patch Android Apps (better with root)
+- [Lucky Patcher](https://www.luckypatchers.com/) - 给安卓 App 打补丁（有 root 更好）
 - [LumaPlay (for UPlay)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197)
 - [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)
 - [Origin DLC unlocker](https://cs.rin.ru/forum/viewtopic.php?f=20&t=104412)
 - [RIN SteamInternals - A Broad Collection of Steam Tools](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887)
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.0.0.12)
 
-### Useful Software
+### 有用的软件
 
 - [7-Zip](https://www.7-zip.org/)
 - [Achievement Watcher](https://github.com/xan105/Achievement-Watcher/)
-- [Bitwarden](https://bitwarden.com/) - Open source password manager.
-- [Parsec](https://parsec.app/) - play local multiplayer games from anywhere.
-- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - Verify checksums and generate hash info.
+- [Bitwarden](https://bitwarden.com/) - 开源密码管理器。
+- [Parsec](https://parsec.app/) - 从任何地方玩本地多人游戏。
+- [RapidCRC](https://www.ov2.eu/programs/rapidcrc-unicode) - 验证校验和并生成散列信息。
 - [Tor Browser](https://www.torproject.org/download/)
 - [WinRAR](https://www.rarlab.com/)
 
-**For Microsoft products (Windows/Office) you can use [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) to activate them.**
+**对于 Microsoft 产品（Windows/Office），你可以使用 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) 来激活它们**
 
-**For Adobe products, visit [monkrus.ws](http://monkrus.ws).**
+**对于 Adobe 产品，访问 [monkrus.ws](http://monkrus.ws).**
 
-### Useful Browser Extensions
+### 有用的浏览器扩展
 
 - [Decentraleyes](https://decentraleyes.org/)
 - [LocalCDN](https://www.localcdn.org/)
@@ -199,36 +199,36 @@ Please note, none of these sites provide downloads, only information on Scene/P2
 - Trace
 - [Ublock Origin](https://ublockorigin.com/)
 
-### VPNs
+### VPN
 
 - [r/VPN](https://reddit.com/r/VPN)
 - [Privacy Tools' VPN recommendations](https://www.privacytools.io/providers/vpn/)
 - [VPN Comparison Chart on r/VPN](https://www.reddit.com/r/VPN/comments/m736zt/vpn_comparison_table/)
 
-**Tor is NOT a VPN, it will not protect you when torrenting!**
+**Tor 不是 VPN，它在 torernt 下载时并不能保护你！**
 
-### Unsafe software
+### 不安全软件
 
-- Bittorrent - Same as Utorrent, has ads, trackers, and is unsafe.
-- Utorrent - Same as Bittorrent, has ads, trackers, and is unsafe.
-- CCleaner - Owned by Avast.
-- Avast - Notorious for collecting and selling user data.
+- Bittorrent - 与 Utorrent 一样，有广告、跟踪器并且不安全。
+- Utorrent - 与 Bittorrent 一样，有广告、跟踪器并且不安全。
+- CCleaner - Avast 所有。
+- Avast - 因收集并出售用户数据而声名狼藉。
 
-### Untrusted sites / uploaders
+### 不可信网站、上传者
 
-- AGFY - scam links
+- AGFY - 欺诈链接
 - Apunkagames
-- IGG Games / PC Games Torrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM in indie games and exploit you for ad revenue.
-- BBRepacks - Fake BlackBox Repacks, contain malware.
-- OceanOfGames - High malware risk.
+- IGG Games / PC Games Torrents - 他们人肉搜索 mercs213 (GoodOldDownloads 所有者), 将他们的 DRM 打包到独立游戏中，并且利用你获取广告收入
+- BBRepacks - 虚假的BlackBox Repack，含有恶意软件
+- OceanOfGames - 高恶意软件风险。
 - nosTEAM
-- xGIROx - repacks contain bitcoin miners.
-- Seyter - repacks contain bitcoin miners.
-- SteamRip - full of ads.
-- SteamUnlocked / GOG Unlocked - slow downloads, malicious link redirects and uploads stolen from IGG Games.
-- cracked-games  - Malware Risk.
-- crackingpatching - Malware Risk.
-- RepackGames - mislabel games and steal releases.
-- Pirate Bay - Malware Risk.
-- Kickass Torrents - Malware Risk.
-- Any site with a scene group name in the URL - **SCENE GROUPS DON'T HAVE SITES!**
+- xGIROx - repack 中含有比特币挖矿程序。
+- Seyter - repack 中含有比特币挖矿程序。
+- SteamRip - 充满广告。
+- SteamUnlocked / GOG Unlocked - 下载缓慢、恶意链接重定向和从 IGG Games 窃取的上传。
+- cracked-games  - 恶意软件风险。
+- crackingpatching - 恶意软件风险。
+- RepackGames - 游戏打错标签，并且窃取发布内容。
+- Pirate Bay - 恶意软件风险。
+- Kickass Torrents - 恶意软件风险。
+- 任何 URL 中带有业界组名称的网站 - **业界组没有网站！**
